@@ -6,4 +6,15 @@ table{
 tr, td, th{
     border: 1px solid black;
     padding: 2px;
+    width: 100px;
+    height: 40px;
+}
+
+.obyvmex{
+    color: white;
+    border: 1px solid white;
+}
+
+img{
+    width: 150px;
 }
